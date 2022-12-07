@@ -1,0 +1,164 @@
+{
+  "sections": {
+    "166367530215ab248b": {
+      "type": "featured-image-landing",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Vision.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>Vår vision<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "166367559796e36935": {
+      "type": "mission",
+      "blocks": {
+        "166367559738c81b46-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<br><h1>Vi vill göra skillnad<\/h1><br><div style=\"margin-bottom:-20px\">För många kan en hälsosammare hållning vara vägen till ett bättre liv. Oavsett om du lider av tillfällig spänning  eller  kronisk smärta, kan en hälsosam hållning lindra vardagligt obehag. Det är därför vi tar våra kunders situation på allvar och arbetar hårt för att hjälpa dem att förbättra sin hållning.<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "166367559738c81b46-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1663676460fc28acce": {
+      "type": "custom-html",
+      "blocks": {
+        "1663676460ba284730-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:55px;padding-right:55px\">\n<img src=\"https:\/\/i.ibb.co\/n1XdwZ4\/Purpose2.gif\" alt=\"Objectif\" style=\"max-width:100px;width:100%\"><h2>Avsikt<\/h2>\n<p>Vi finns för att förbättra hållningen, lindra smärta och öka livskvaliteten för våra kunder.<\/p>\n<\/div>",
+            "column_width": 6,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "adbce269-f9e1-412e-8b7f-38c931c9d4c3": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:55px;padding-right:55px\">\n<img src=\"https:\/\/i.ibb.co\/FgjcrpD\/Ambition2.gif\" alt=\"ambitions\" style=\"max-width:100px;width:100%\"><h2>Ambition<\/h2>\n<p>Vi vill vara den mest pålitliga och föredragna leverantören av effektiva hållningskorrigerande kläder i hela Europa.<\/p>\n<\/div>",
+            "column_width": 6,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1663676460ba284730-0",
+        "adbce269-f9e1-412e-8b7f-38c931c9d4c3"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1663677295b91cddf3": {
+      "type": "featured-icons",
+      "blocks": {
+        "1663677295ba56017e-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Integrity.png",
+            "title": "Bevara integriteten",
+            "text": "<p>Vi är respektfulla och ärliga mot våra kunder.<\/p>"
+          }
+        },
+        "1663677295ba56017e-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quality.png",
+            "title": "Fokus på kvalitet",
+            "text": "<p>Våra produkter fungerar och håller i flera år.<\/p>"
+          }
+        },
+        "1663677295ba56017e-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Target.png",
+            "title": "Gör det enkelt",
+            "text": "<p>Vi gör det enkelt att hitta exakt rätt produkt.<\/p>"
+          }
+        },
+        "f97af3f9-1518-4821-bef4-2273e327c1e4": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Feedback.png",
+            "title": "Lyssna på kunden",
+            "text": "<p>Vi anpassar oss till marknaden och lyssnar på feedback.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1663677295ba56017e-0",
+        "1663677295ba56017e-1",
+        "1663677295ba56017e-2",
+        "f97af3f9-1518-4821-bef4-2273e327c1e4"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Våra värderingar",
+        "subtitle": "På Anodyne®  har vi fyra kärnvärden som styr alla våra beslut och säkerställer att vi alltid levererar samma fantastiska service.",
+        "section_style": "section-default",
+        "text_align": "text-center"
+      }
+    },
+    "16636773046ce0c44d": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bästsäljare",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "posture-shirt",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "166367530215ab248b",
+    "166367559796e36935",
+    "1663676460fc28acce",
+    "1663677295b91cddf3",
+    "16636773046ce0c44d"
+  ]
+}

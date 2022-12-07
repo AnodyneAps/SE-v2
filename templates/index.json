@@ -1,0 +1,411 @@
+{
+  "sections": {
+    "16565958709e259b85": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "page_width": "full_width",
+        "height": "medium",
+        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+        "show_overlay": true,
+        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+        "image_position": "center center",
+        "video_title": "<span class=\"first\">Anodyne®<\/span>",
+        "text_size": "medium",
+        "text_description": "<p><strong>Förbättra och slipp ryggsmärtor med våra patenterade och kliniskt bevisade Posture Shirt®<\/strong><\/p>",
+        "text_description_size": "medium",
+        "button_label": "Män",
+        "button_link": "shopify:\/\/collections\/man",
+        "second_button_label": "Kvinnor",
+        "second_button_link": "shopify:\/\/collections\/kvinnor",
+        "show_scrolldown": true,
+        "show_emark": false,
+        "bottom_counter_text": "Vi skickar ditt paket inom:",
+        "show_bottom_counter": true
+      }
+    },
+    "26b60e6d-b80c-4cac-9186-bc32afaf5241": {
+      "type": "hero-blackdays",
+      "settings": {
+        "style__selector": "black",
+        "page_width": "full_width",
+        "height": "medium",
+        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+        "show_overlay": true,
+        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+        "image_position": "center center",
+        "video_title": "",
+        "svg_selector": "blackdays",
+        "text_size": "medium",
+        "text_description": "<p>Black Friday - <strong>Spara upp till 80 %<\/strong> - Det blir inte billigare<\/p>",
+        "text_description_size": "medium",
+        "button_label": "Män",
+        "button_link": "shopify:\/\/collections\/man",
+        "second_button_label": "Kvinnor",
+        "second_button_link": "shopify:\/\/collections\/kvinnor",
+        "show_scrolldown": true,
+        "show_emark": false,
+        "bottom_counter_text": "Black Friday slutar om:",
+        "date__selector": "2022-11-25 23:59:59",
+        "show_bottom_counter": true
+      }
+    },
+    "1656942069989ae2c9": {
+      "type": "feature-services",
+      "blocks": {
+        "1656942069c276e07d-0": {
+          "type": "service",
+          "settings": {
+            "title": "Snabb leverans",
+            "description": "Och gratis frakt vid köp över 595 SEK.",
+            "icon": "shopify:\/\/shop_images\/Truck.png",
+            "uspLinkUrl": "shopify:\/\/pages\/leverans-och-frakt"
+          }
+        },
+        "1656942069c276e07d-1": {
+          "type": "service",
+          "settings": {
+            "title": "Fri retur och byte",
+            "description": "Det är gratis att byta\/returnera alla produkter som du köper hos oss.",
+            "icon": "shopify:\/\/shop_images\/Returns.png",
+            "uspLinkUrl": "shopify:\/\/pages\/returportal"
+          }
+        },
+        "342df7ed-a5e0-495e-b2aa-88ec2359c324": {
+          "type": "service",
+          "settings": {
+            "title": "Pröva 100% gratis",
+            "description": "Välj att betala inom 30 dagar eller om ett par månader.",
+            "icon": "shopify:\/\/shop_images\/Smile2.png",
+            "uspLinkUrl": "shopify:\/\/collections\/alla-produkter"
+          }
+        },
+        "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70": {
+          "type": "service",
+          "settings": {
+            "title": "30 dagars full returrätt",
+            "description": "Giltig från den dag du får dina produkter.",
+            "icon": "shopify:\/\/shop_images\/Customerservice_copy.png",
+            "uspLinkUrl": "shopify:\/\/pages\/kontakt"
+          }
+        }
+      },
+      "block_order": [
+        "1656942069c276e07d-0",
+        "1656942069c276e07d-1",
+        "342df7ed-a5e0-495e-b2aa-88ec2359c324",
+        "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1654180360d9664fc4": {
+      "type": "featured-collections",
+      "blocks": {
+        "1654180360b14d67ac-2": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "posture-shirt",
+            "btn__shopnow": "Shop"
+          }
+        },
+        "1654180360b14d67ac-0": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "ryggstod",
+            "btn__shopnow": "Shop"
+          }
+        },
+        "1654180360b14d67ac-1": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "andra-produkter",
+            "btn__shopnow": "Shop"
+          }
+        }
+      },
+      "block_order": [
+        "1654180360b14d67ac-2",
+        "1654180360b14d67ac-0",
+        "1654180360b14d67ac-1"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "section_height": "medium",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "shopify:\/\/collections",
+        "button_style": "btn--primary",
+        "slider_featured_collections": false,
+        "arrows": false,
+        "dots": false
+      }
+    },
+    "1657200190f72ca1c0": {
+      "type": "profile-text",
+      "blocks": {
+        "1657200190267fd417-0": {
+          "type": "Profile-Text",
+          "settings": {
+            "title": "Varför välja Anodyne hållningskorrigerande kläder?",
+            "code": "<p>Med <a href=\"\/\"><span style=\"text-decoration:underline\">Anodyne®-hållningskorrigerande kläder<\/span><\/a> kan du uppnå en bättre hållning smidigt och enkelt, vilket minskar smärta i nacke och axlar samt anspänningar. Anodyne®-hållningskorrigerande kläder hjälper dig att öka din hållningsmedvetenhet och kan användas när du sitter på kontoret, reser, är aktiv på jobbet eller använder den vid träning. Anodyne® är en europeisk tillverkare och distributör av hållningskorrigerande kläder med teknik utvecklad av American AlignMed - världens enda tillverkare av hållningskorrigerande kläder registrerad hos US Federal Food & Drug Administration (FDA). Anodyne® hållningskorrigerande kläder är den enda i Europa som är både FDA-registrerad och MDR\/CE märkt som medicinsk utrustning (klass I), vilket är din garanti för att våra produkter uppfyller kraven för medicinsk utrustning. Vi har även ett urval av produkter för <a href=\"\/collections\/ryggstod\"><span style=\"text-decoration:underline\">ryggstöd<\/span><\/a> som bidrar till hållningen.<\/p>",
+            "text_alignment": "text-center",
+            "status1_number": "+100.000",
+            "status1_label": "Nöjda kunder",
+            "status1_link": "shopify:\/\/collections\/alla-produkter",
+            "status2_number": "+500.000",
+            "status2_label": "Produkter som säljs över hela världen",
+            "status2_link": "shopify:\/\/collections\/alla-produkter",
+            "status3_number": "+8",
+            "status3_label": "Års erfarenhet",
+            "status3_link": "shopify:\/\/collections\/alla-produkter",
+            "status4_number": "+80",
+            "status4_label": "Produkter tillgängliga",
+            "status4_link": "shopify:\/\/collections\/alla-produkter",
+            "vendor_image_position": "center center",
+            "vendor_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657200190267fd417-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": false,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1659512569f1cf3047": {
+      "type": "quotes",
+      "blocks": {
+        "1659512569137a920e-0": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "icon": "format_quote",
+            "quote": "<p><em>Beställde för liten storlek och sände tillbaka för byte vilket inte var något som helst problem! Helt nöjd med produkten och att det var så smidigt att byta till bättre passform. TACK för snabb och oproblematisk leverans.<\/em><\/p>",
+            "author": "Thomas F.",
+            "stars_pic": "shopify:\/\/shop_images\/Trustpilot_Stars.png",
+            "quotes_link": "https:\/\/se.trustpilot.com\/review\/anodyne.se?stars=5",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "1659512569137a920e-1": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "icon": "format_quote",
+            "quote": "<p><em>Verkligen bra produkt som i motsatts till andra liknande, verkligen funkar. Dessutom super service. Beställda varor blir skickad med en gång och kontaktar man firman med frågor, får man snabbt svar.<\/em><\/p>",
+            "author": "Anne-Marie R.",
+            "stars_pic": "shopify:\/\/shop_images\/Trustpilot_Stars.png",
+            "quotes_link": "https:\/\/se.trustpilot.com\/review\/anodyne.se?stars=5",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "1659512569137a920e-2": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "icon": "format_quote",
+            "quote": "<p><em>Snabb leverans och tröjan hjälpte direkt till att få en att tänka på hållningen samt sträcka på sig! Hjälpt mig förbättra hållningen på mitt kontorsjobb avsevärt! Absolut värt pengarna!<\/em><\/p>",
+            "author": "Anna F.",
+            "stars_pic": "shopify:\/\/shop_images\/Trustpilot_Stars.png",
+            "quotes_link": "https:\/\/se.trustpilot.com\/review\/anodyne.se?stars=5",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1659512569137a920e-0",
+        "1659512569137a920e-1",
+        "1659512569137a920e-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "quote_width": "60",
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
+      }
+    },
+    "1659512748326b5967": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Mest populära produkter",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "style__selector": "black",
+        "home_featured_products": "posture-shirt",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": true,
+        "button_label": "Se mer",
+        "button_link": "shopify:\/\/collections\/alla-produkter",
+        "button_style": "",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
+      }
+    },
+    "16595128814470f681": {
+      "type": "featured-icons",
+      "blocks": {
+        "16595128814be99d47-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Checkmark.png",
+            "title": "Hållningskorrigerande kläder med 100% kundnöjdhetsgaranti",
+            "text": "<p>På Anodyne® erbjuder vi alltid 100% kundnöjdhetsgaranti, 30 dagar gratis retur- och bytesrätt. Detta innebär att du inom 30 dagar fritt kan prova och testa din produkt för att ta reda på om den uppfyller dina förväntningar. Vi strävar efter ha 100% nöjda kunder - vilket har varit vårt mål för de mer än 300 000 kunder i Europa som redan har köpt en original Anodyne®-produkt under de senaste fem åren. Färre än 1 av 20 kunder returnerar faktiskt sin produkt.<\/p>"
+          }
+        },
+        "16595128814be99d47-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Smile2.png",
+            "title": "Det originala hållingskorrigerande kläderna",
+            "text": "<p>Det originala <a href=\"\/collections\/alla-produkter\" title=\"Alla produkter\"><span style=\"text-decoration:underline\">Anodyne® hållningskläder<\/span><\/a> kan endast köpas här på www.anodyne.se eller från en av våra godkända återförsäljare. Detta då vi är medvetna om att det finns många falska och olämpliga produkter på marknaden. Endast en typ av hållningskorrigerande kläder är både FDA-registrerade och MDR\/CE-registrerade som medicinsk utrustning; det är produkter från Anodyne® - så var särskilt uppmärksam när du handlar online.<\/p>"
+          }
+        },
+        "16595128814be99d47-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kinesio2_copy.png",
+            "title": "Från kinesiotape till hållningskorrigerande kläder",
+            "text": "<p>Hållningskorrigerande kläder aktiverar ryggmuskler, axlar och skulderblad utan att lugna och låsa dina muskler eller leder. Tekniken bakom <a href=\"\/collections\/posture-shirt\" title=\"Posture Shirt™\"><span style=\"text-decoration:underline\">Posture Shirt<\/span><\/a> är inspirerad av kinesiotape - en behandlingsmetod som ofta används av fysioterapeuter och kiropraktorer för att behandla smärta och spänningar i nacken, axlarna och ryggen. Kinesiotaping används också ofta av professionella idrottare för att stimulera specifika muskelgrupper och förbättra hållningen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16595128814be99d47-0",
+        "16595128814be99d47-1",
+        "16595128814be99d47-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-default",
+        "text_align": ""
+      }
+    },
+    "16595130833070b2f1": {
+      "type": "featured-video",
+      "blocks": {
+        "1659513083303253a7-0": {
+          "type": "video",
+          "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/cover_about.jpg",
+            "title": "",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=GmFnFpo479Y",
+            "animated_button": true
+          }
+        }
+      },
+      "block_order": [
+        "1659513083303253a7-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "Vem är vi?",
+        "subtitle": "Se vår presentationsvideo",
+        "section_style": "section-default"
+      }
+    },
+    "16595131862acfe816": {
+      "type": "featured-accordions",
+      "blocks": {
+        "1659513186ec7e9cae-0": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Patenterad NeuroBand™ -teknik i Anodyne hållningskorrigerande kläder",
+            "accordion__inner-title": "",
+            "accordion__description": "Anodyne® hållningskorrigerande kläder är tillverkade av en unik sammansättning av spandex, polyester och nylon, som ger hållbara och andningsbara produkter som bibehåller elasticitet under användning och gör kläderna bekväma att bära. Designen använder den patenterade NeuroBand ™ -teknologin, inspirerad av kinesiotape, baserad på forskning inom fysiologi. Kläderna är utformade för att spegla muskulaturens aktiva rörelse och på så sätt främja en sund kroppshållning.",
+            "accordion__buttontext": "shop",
+            "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "1659513186ec7e9cae-1": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Hållningskorrigerande kläder för dina behov",
+            "accordion__inner-title": "",
+            "accordion__description": "Anodyne® hållningskorrigerande kläder kan användas av vem som helst. Vi erbjuder hållningskorrigerande tröjor, behåar och västar, alla utformade för att hjälpa till att aktivera muskel- och blodcirkulationen och därmed påminna kroppen till en mer optimal kroppshållning. Anodyne®-hållningskorrigerande tröjor och behåar kan bäras när som helst - när du tränar, shoppar, vandrar, städar eller vid andra aktiviteter. För att få ut så mycket som möjligt av Anodyne® hållningskorrigerande kläder rekommenderar vi att du läser de bifogade anvisningarna noggrant för att säkerställa att du har rätt förutsättningar för att uppnå optimal effekt av våra produkter.",
+            "accordion__buttontext": "shop",
+            "accordion__LinkUrl": "shopify:\/\/collections\/alla-produkter"
+          }
+        },
+        "3c3108af-7850-4cad-a838-88ed336c741f": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Också till dig med skador",
+            "accordion__inner-title": "",
+            "accordion__description": "Om du går med en skada eller om du till exempel har en diskuskollaps, skoliose, artrit eller liknande, kan du använda hållningskorrigerande kläder. Men om du ännu inte har undersökt rekommenderar vi att du konsulterar tillsammans med en professionell. I vissa fall skulle Anodyne hållningskorrigerande västar (MyLign och SpinalQ Pro) vara att föredra eftersom de har de mest kraftfulla stödfunktionen. Dessutom är det viktigt att du väljer hållningskorrigerande kläder i rätt storlek, annars kommer du inte att uppnå optimal effekt. Var därför noga med att kontrollera storleksguiden. Du är också välkommen att kontakta vår kundtjänst som hjälper dig att svara på frågor om våra produkter och hitta rätt storlek.",
+            "accordion__buttontext": "shop",
+            "accordion__LinkUrl": "shopify:\/\/collections\/ryggstod"
+          }
+        }
+      },
+      "block_order": [
+        "1659513186ec7e9cae-0",
+        "1659513186ec7e9cae-1",
+        "3c3108af-7850-4cad-a838-88ed336c741f"
+      ],
+      "settings": {
+        "title": "Hållningskorrigerande kläder för dina behov",
+        "section_style": "section-blank"
+      }
+    },
+    "1659519187d1c8a097": {
+      "type": "newsletter",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Anmäl dig till vårt nyhetsbrev",
+        "subtitle": "Registrera dig nu för vårt nyhetsbrev och säkra dig våra exklusiva erbjudanden.",
+        "section_style": "section-default",
+        "customer_tag": "newsletter"
+      }
+    }
+  },
+  "order": [
+    "16565958709e259b85",
+    "26b60e6d-b80c-4cac-9186-bc32afaf5241",
+    "1656942069989ae2c9",
+    "1654180360d9664fc4",
+    "1657200190f72ca1c0",
+    "1659512569f1cf3047",
+    "1659512748326b5967",
+    "16595128814470f681",
+    "16595130833070b2f1",
+    "16595131862acfe816",
+    "1659519187d1c8a097"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1663745743b81d3ed3": {
+      "type": "custom-html",
+      "blocks": {
+        "16637457432019bd32-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"margin-bottom:-60px\">\n<h1>Posture Shirt eller Hållningssele?<\/h1>\n<h4>Är du osäker på om du ska välja en Posture Shirt™ eller en hållningssele? På den här sidan kan du läsa mer om skillnader och likheter mellan produkterna.<\/h4>\n<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16637457432019bd32-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "16637445009e5e2911": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Varför välja en Posture Shirt™?",
+        "text": "<p>Välj en Posture Shirt™ om du vill ha en produkt med hög komfort som ger support hela dagen.<\/p><p>• Förbättrar kroppshållning<br\/>• Ökar hållningsmedvetenheten<br\/>• Aktiverar musklerna<br\/>• Ger fri rörlighet<br\/>• Dokumenterad effekt på smärtlindring och spänningar<br\/><\/p><p>Kan användas <strong>hela dagen<\/strong> (gradvis tillvänjning):<br\/><\/p><p>• Sittande<br\/>• Ståendes<br\/>• Genom fysisk aktivitet<\/p>",
+        "button_style": "",
+        "button_label": "Se Posture Shirts",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "166374504046831ffc": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Brace.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Varför välja en Hållningssele?",
+        "text": "<p>Välj en Hållningssele om du vill ha en produkt som du kan använda under kortare perioder under dagen.<\/p><p>• Förbättrar kroppshållningen<br\/>• Stabiliserar och avlastar<br\/>• Kan lindra smärta och spänning<\/p><p>Kan användas <strong>30-60 min.<\/strong> efter behov:<\/p><p>• Sittande<br\/>• Ståendes<\/p>",
+        "button_style": "",
+        "button_label": "Se hållningsseler",
+        "button_link": "shopify:\/\/collections\/ryggstod"
+      }
+    },
+    "16637455326d1926f0": {
+      "type": "featured-content",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Sammenligning",
+        "text": "<p>Begge produkter hjælper til at forbedre din kropsholdning, men de arbejder med muskulaturen på forskellige måder. En Posture Shirt™ går med sin unikke NeuroBand™-teknologi ind og aktiverer og stimulerer din muskulatur i takt med, at den øger kropsholdningsbevidstheden, så din krop gradvist selv indtager en bedre holdning. En Skulderstøtte stabiliserer og aflaster, men kun i den periode, du har den på.<\/p><p>Overordnet set anbefaler vi, at du vælger en Posture Shirt™, hvis du ønsker et produkt med høj komfort, som giver dig støtte hele dagen. En Skulderstøtte kan med fordel vælges, hvis du kun ønsker støtte i kortere perioder i løbet af dagen.<\/p>",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "text_alignment": "text-center",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1663745743b81d3ed3",
+    "16637445009e5e2911",
+    "166374504046831ffc",
+    "16637455326d1926f0"
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "f6b01b2a-2351-4013-a086-973c6fc1b430": {
+      "type": "featured-image-landing",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Smertelindring_hero.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>Smärtlindring med god hållning<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "888d4047-066e-4fc3-9acc-0af6bb32f0a7": {
+      "type": "custom-html",
+      "blocks": {
+        "template--16610633318657__888d4047-066e-4fc3-9acc-0af6bb32f0a7-16676384728dc6711c-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Lindrar smärta\n<\/h2>\n<p>Hälsosam hållning kan lindra spänningar och smärta i rygg, axlar och nacke.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "335b0a43-086a-490a-b6f2-964f55f8a778": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Förhindrar skador<\/h2>\n<p>Hjälper till att förhindra att du får problem med smärta i framtiden.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "0048b612-73c2-445e-9532-07bbf60801f7": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Avslappnar kroppen<\/h2>\n<p>Slappnar av stressade muskelgrupper och lindrar spänningar i ryggen.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16610633318657__888d4047-066e-4fc3-9acc-0af6bb32f0a7-16676384728dc6711c-0",
+        "335b0a43-086a-490a-b6f2-964f55f8a778",
+        "0048b612-73c2-445e-9532-07bbf60801f7"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-default",
+        "wrapper_size": ""
+      }
+    },
+    "46c1dfc4-8219-410b-a31e-21b90031f9fd": {
+      "type": "mission",
+      "blocks": {
+        "template--16098110144661__46c1dfc4-8219-410b-a31e-21b90031f9fd-16659933787fc5bfa2-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<br><h1>Smärtlindring med hållningskorrigerande kläder<\/h1><div style=\"margin-bottom:0px\"><p>Vi anstränger oss för att bevisa våra produkters effektivitet. Därför beställde vi en oberoende undersökning som samlade in svar från 1039 av våra kunder. Studien drar slutsatsen att vår Posture Shirt™ har en positiv effekt på hållningen och kan användas som ett extra hjälpmedel för smärtlindring i huvud, nacke, axlar och rygg.<\/p><\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__46c1dfc4-8219-410b-a31e-21b90031f9fd-16659933787fc5bfa2-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "14a77dd3-1b42-4a65-a56c-936087340be7": {
+      "type": "mission",
+      "disabled": true,
+      "blocks": {
+        "template--16098110144661__14a77dd3-1b42-4a65-a56c-936087340be7-16659933787fc5bfa2-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<br><h2>Kan holdningskorrigerende tøj lindre smerter?<\/h2>a – holdningskorrigerende tøj kan have en smertelindrende effekt, og kan bruges som hjælpemiddel til skævhed i ryggen og korrektion af skoliose. Men det kræver, at tøjet er af en ordentlig kvalitet og har beviselig effekt. Sandheden er desværre, at der findes forhandlere, som sælger billigt, men effektløst holdningstøj rundt omkring på nettet.<p><\/p>\n<p>Vi gør derfor meget ud af at kunne dokumentere effekten af vores produkter og har fået lavet en uvildig undersøgelse, som indsamlede svar fra 1039 af vores kunder. Undersøgelsen konkluderer, at vores Posture Shirt™ har en positiv indvirkning på kropsholdningen og kan bruges som et supplerende hjælpemiddel til smertelindring i hoved, nakke, skuldre og ryg. Det kan du læse meget mere om herunder. Og så er vores kunder yderst tilfredse – <a href=\"\/pages\/test-af-holdningstoej\/\"><u>hele 82% af de adspurgte kunder vil anbefale andre at bruge vores produkter<\/u><\/a>. Det er vi naturligvis enormt stolte af, for det betyder jo, at vi har været med til at gøre en beskeden forskel ude i verden.<\/p><br>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__14a77dd3-1b42-4a65-a56c-936087340be7-16659933787fc5bfa2-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-default",
+        "wrapper_size": ""
+      }
+    },
+    "5b53ece3-669b-4189-95af-ce8a16b44471": {
+      "type": "featured-columns",
+      "blocks": {
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Shoulders.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>73%<\/strong> upplever en minskning av frekvensen av deras rygg- och axelsmärta.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Neck.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>70% <\/strong> upplever en minskning av frekvensen av deras nacksmärta.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Lumbar2.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>65% <\/strong> känner att intensiteten i deras nedre ryggsmärta har minskat.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "22beee5f-1c98-45a6-8607-0796241a2334": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Headache.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>65% <\/strong> känner att intensiteten i deras nedre ryggsmärta har minskat.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-0",
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-1",
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-2",
+        "22beee5f-1c98-45a6-8607-0796241a2334"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "text_align": "text-center"
+      }
+    },
+    "e694d021-181f-4f9b-97f7-04d27d4d07cc": {
+      "type": "custom-html",
+      "blocks": {
+        "template--16098110144661__e694d021-181f-4f9b-97f7-04d27d4d07cc-16659933783d1067f6-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"margin-top:-40px; margin-bottom:0px\">\n<h2>Vi är medicinskt registrerade<\/h2>\n<img src=\"https:\/\/i.ibb.co\/rF0hmhY\/Registrering2.png\">\n<p>Anodyne® är den enda hållningskorrigerande klädåterförsäljaren i Europa vars produkter är både FDA-registrerade och CE-märkta som medicintekniska produkter.\nDet innebär att våra produkter uppfyller ett antal strikta miljö-, säkerhets-, kvalitets- och prestandakrav.\n<br>\nDenna registrering gäller både vår Posture Shirt™, SpinalQ Pro och MyLign Pro.\n<\/p>\n<\/div>\n<a class=\"btn btn--small btn-outline\" href=\"https:\/\/www.anodyne.se\/collections\/posture-shirt\">Se urval<\/a>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__e694d021-181f-4f9b-97f7-04d27d4d07cc-16659933783d1067f6-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-default",
+        "wrapper_size": ""
+      }
+    },
+    "d1cfa87e-1910-418e-a6d3-7db9c4448614": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Kinesotape_to_posture_shirt.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Inspirerad av kinesioband",
+        "text": "<p>Posture Shirt™ är den ursprungliga hållningen som korrigerar t-shirt på marknaden. T-shirten utvecklades baserat på vetenskapliga studier av människans fysiologi och inspirerades av användningen av kinesioband som en fysioterapeutisk behandling mot smärta.<\/p><p>Kinesiotape är integrerat i vår Posture Shirt™ med de så kallade NeuroBands™ på baksidan - stödband placerade där kinesiotape normalt appliceras. Dessa NeuroBands™ är viktiga för t-shirtens förmåga att stimulera bättre hållning genom att dra axlarna tillbaka något. Detta drag påminner kroppen att räta upp och upprätthålla en bra hållning.<\/p>",
+        "button_style": "",
+        "button_label": "Köpa här",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "c632e1a2-8d82-4f8d-ba64-63a3cae5b09c": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/MK2.jpg",
+        "image_link": "",
+        "section_style": "section-default",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Smärtlindring är en del av vårt DNA",
+        "text": "<p>Anodyne® grundades eftersom VD: Kenneth själv led av smärta i många år. Efter otaliga fysioterapibehandlingar och en lång sökning hittade han en hållning som korrigerade t-shirt från USA som hjälpte honom att korrigera sin hållning. Effekten var obestridlig för honom och han visste omedelbart att denna t-shirt bara måste delas med andra som också lider av smärta. Så 2014, tillsammans med sin fru Mia, grundade han Anodyne® och började distribuera Posture Shirt™ i Europa. Sedan dess har sortimentet utökats och vi erbjuder nu ett brett utbud av produkter för att förbättra hållningen och hjälpa till att lindra smärta.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Om oss",
+        "button_link": "shopify:\/\/pages\/om-oss"
+      }
+    },
+    "5789ab60-b393-4c34-a8c6-99319f56d30b": {
+      "type": "mission",
+      "disabled": true,
+      "blocks": {
+        "template--16098110144661__5789ab60-b393-4c34-a8c6-99319f56d30b-1665995087ea306100-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "<br><br>Nysgerrig?",
+            "mission_description": "<p>Så tag gerne et kig på vores udvalg og find din favorit allerede nu. Har du spørgsmål til vores produkter eller service, er du som altid velkommen til at kontakte vores kundeservice.<\/p>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__5789ab60-b393-4c34-a8c6-99319f56d30b-1665995087ea306100-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 48,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f6b01b2a-2351-4013-a086-973c6fc1b430",
+    "888d4047-066e-4fc3-9acc-0af6bb32f0a7",
+    "46c1dfc4-8219-410b-a31e-21b90031f9fd",
+    "14a77dd3-1b42-4a65-a56c-936087340be7",
+    "5b53ece3-669b-4189-95af-ce8a16b44471",
+    "e694d021-181f-4f9b-97f7-04d27d4d07cc",
+    "d1cfa87e-1910-418e-a6d3-7db9c4448614",
+    "c632e1a2-8d82-4f8d-ba64-63a3cae5b09c",
+    "5789ab60-b393-4c34-a8c6-99319f56d30b"
+  ]
+}
